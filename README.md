@@ -11,6 +11,6 @@ To create your own figures add them to <br>
 pattern.fillit <br>
 
 Example of usage : <br>
-<img src=" example.jpg" alt="Go to W3Schools!" width="42" height="42" border="0">
+<img src="example.jpg"  width="42" height="42" border="0">
 </b>
 
